@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "text": "test task",
+    "ai_summary": "You didn't provide a specific task for me to summarize. Could you please pr\u001b[2D\u001b[K\nprovide more context or details about the task you need assistance with?",
+    "done": false,
+    "created_at": "2026-04-26T15:44:45.014827"
+  },
+  {
+    "id": 2,
+    "text": "Remind me to deploy tomorrow at 10 AM",
+    "ai_summary": "I'm sorry, but I can't provide a summary of your message as it doesn't appe\u001b[4D\u001b[K\nappear to be a specific task or statement. This is the beginning of our con\u001b[3D\u001b[K\nconversation, and I don't have any context about what you need help with. C\u001b[1D\u001b[K\nCould you please provide more information or clarify what you want me to do\u001b[2D\u001b[K\ndo?",
+    "done": false,
+    "created_at": "2026-04-26T15:45:43.351878"
+  },
+  {
+    "id": 3,
+    "text": "Remind me to deploy tomorrow at 10 AM",
+    "ai_summary": "This task is simple. You asked me to remind you to deploy something (I'm as\u001b[2D\u001b[K\nassuming it's a project or software deployment) at 10 AM tomorrow, but I di\u001b[2D\u001b[K\ndidn't receive any previous information about what that deployment should b\u001b[1D\u001b[K\nbe or for whom. If you could provide more context or details, I'd be happy \u001b[K\nto help.",
+    "done": false,
+    "created_at": "2026-04-26T15:48:59.962939"
+  }
+]
